@@ -14,3 +14,4 @@ Komentar na delovanje:
 Naloga je bila zanimiva ter zelo težavna, saj nama jo ni uspelo narediti. Mislila sva da nama bo uspelo vendar sma si izbrala pretežko za prvo nlogo, saj nisva vnaprej raziskala nalog.
 
 ![Pinout mikroprocesorja CubeMX](https://raw.githubusercontent.com/bozoslapy/Vaja5-buttons-LED-STM32F0/main/pinout.PNG)
+
